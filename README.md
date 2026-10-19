@@ -10,9 +10,9 @@ The documentation lives in the **[MS4X Wiki](https://www.ms4x.net)** – this Gi
 |---|---|
 | [**MS43X-Custom-Firmware**](https://github.com/ms4x-net/MS43X-Custom-Firmware) | Custom firmware based on MS430069: MAP/Alpha-N load, boost control, flex fuel, launch control, no-lift shift and more |
 | [**ms4x_flasher**](https://github.com/ms4x-net/ms4x_flasher) | Flashing tool to read and write MS4x ECUs and supported TCUs |
-| [**ms43**](https://github.com/ms4x-net/ms43) | TunerPro definitions (Extended Load), stock 430069 firmware files, explanations |
-| [**ms42**](https://github.com/ms4x-net/ms42) | TunerPro definitions for MS42 0110C6 |
-| [**ms41**](https://github.com/ms4x-net/ms41) | TunerPro definitions for MS41 1429861 (English & German) |
+| [**ms41**](https://github.com/ms4x-net/ms41) | TunerPro definitions for MS41 |
+| [**ms42**](https://github.com/ms4x-net/ms42) | TunerPro definitions for MS42 |
+| [**ms43**](https://github.com/ms4x-net/ms43) | TunerPro definitions for MS43 |
 | [**alpina**](https://github.com/ms4x-net/alpina) | Alpina ECU/TCU firmware preservation |
 
 ## Getting started
